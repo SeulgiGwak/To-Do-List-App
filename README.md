@@ -8,8 +8,9 @@
 
 <h2> 🚀 Features </h2>
 <p>
-* Add New Tasks: Users can enter and add new tasks to the list.
   
+*  Add New Tasks: Users can enter and add new tasks to the list.
+
 * Delete Tasks: Tasks can be deleted once completed or if they are no longer needed.
   
 * Mark Tasks as Completed: Users can visually mark tasks as completed (e.g., with a checkmark or crossed-out text).
