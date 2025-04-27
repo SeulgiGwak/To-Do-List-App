@@ -5,7 +5,8 @@
 <p>This is a simple To-Do List web application where users can add, delete, and manage tasks. It's designed to be intuitive, user-friendly, and built with core web technologies: HTML, CSS, and JavaScript. The app is ideal for practicing front-end development and offers essential features for task management.</p>
 
 <h2> 🚀 Features </h2>
-<p>*Add New Tasks: Users can enter and add new tasks to the list.
+<p>
+  * Add New Tasks: Users can enter and add new tasks to the list.
 
 * Delete Tasks: Tasks can be deleted once completed or if they are no longer needed.
 
