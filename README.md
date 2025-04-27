@@ -33,55 +33,62 @@
 <p>To get started with this project on your local machine:
 
 Clone this repository to your local machine:
-<em>git clone <repository-url></em>
+
+<b> git clone <repository-url> </b>
 
 Open the index.html file in any browser to launch the app. 
 
-No installation of additional tools or frameworks is needed. Simply open the project folder and double-click the index.html file. </p>
+No installation of additional tools or frameworks is needed.
+
+Simply open the project folder and double-click the index.html file. </p>
 
 
 <br>
-📱 Usage
-Add Tasks: Type a task in the input field and click the Add Task button to add it to your list.
+<h2> 📱 Usage </h2>
+<p>* Add Tasks: Type a task in the input field and click the Add Task button to add it to your list.
 
-Mark Tasks as Complete: Check a task (or strike it through) to mark it as completed.
+* Mark Tasks as Complete: Check a task (or strike it through) to mark it as completed.
 
-Delete Tasks: Click the Delete button next to any task you want to remove from the list.
-
-
-<br>
-🔧 How It Works
-Add Tasks: The input box allows you to type in tasks. When you press the Add Task button, a new task is added to the list.
-
-Complete Tasks: Once a task is completed, it can be marked (visually) as completed. This may involve adding a "checked" effect or strikethrough on the task text.
-
-Delete Tasks: If a task is no longer needed, you can click the Delete button next to it to remove it from the list.
+* Delete Tasks: Click the Delete button next to any task you want to remove from the list.</p>
 
 
 <br>
-🌱 Future Improvements
-Add the ability to edit tasks after they’ve been created.
 
-Implement localStorage to save tasks even when the page is refreshed.
+<h2> 🔧 How It Works </h2>
+<p>
+* Add Tasks: The input box allows you to type in tasks. When you press the Add Task button, a new task is added to the list.
 
-Allow users to filter tasks (e.g., show only completed tasks or active tasks).
+* Complete Tasks: Once a task is completed, it can be marked (visually) as completed. This may involve adding a "checked" effect or strikethrough on the task text.
 
-Add drag-and-drop functionality to reorder tasks.
-
-
-<br>
-🛠️ Roadmap
-Task Completion: Implement features to mark tasks as "done" with a checkbox or strikethrough.
-
-Error Handling: Ensure that if the input field is empty, the user is alerted and no task is added.
-
-Styling Enhancements: Improve the overall design, including color schemes, fonts, and animations.
+* Delete Tasks: If a task is no longer needed, you can click the Delete button next to it to remove it from the list.</p>
 
 
 <br>
-📝 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+<h2> 🌱 Future Improvements </h2>
+<p>
+* Add the ability to edit tasks after they’ve been created.
+
+* Implement localStorage to save tasks even when the page is refreshed.
+
+* Allow users to filter tasks (e.g., show only completed tasks or active tasks).
+
+* Add drag-and-drop functionality to reorder tasks. </p>
+
 
 <br>
-🤝 Contributing
-If you’d like to contribute to this project, feel free to fork the repository and submit a pull request.
+<h2> 🛠️ Roadmap </h2>
+<p>
+* Task Completion: Implement features to mark tasks as "done" with a checkbox or strikethrough.
+
+* Error Handling: Ensure that if the input field is empty, the user is alerted and no task is added.
+
+* Styling Enhancements: Improve the overall design, including color schemes, fonts, and animations. </p>
+
+
+<br>
+<h2> 📝 License </h2>
+<p> This project is licensed under the MIT License - see the LICENSE file for details. </p>
+
+<br>
+<h2> 🤝 Contributing </h2>
+<p> If you’d like to contribute to this project, feel free to fork the repository and submit a pull request.</p>
