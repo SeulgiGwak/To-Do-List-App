@@ -79,9 +79,8 @@ Simply open the project folder and double-click the index.html file. </p>
 <h2> 🛠️ Roadmap </h2>
 <p>
 
-*Task Completion: Implement features to mark tasks as "done" with a checkbox or strikethrough.
+* Task Completion: Implement features to mark tasks as "done" with a checkbox or strikethrough.
 * Error Handling: Ensure that if the input field is empty, the user is alerted and no task is added.
-
 * Styling Enhancements: Improve the overall design, including color schemes, fonts, and animations. </p>
 
 
