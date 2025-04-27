@@ -7,10 +7,15 @@
 <h2> 🚀 Features </h2>
 <p>
 * Add New Tasks: Users can enter and add new tasks to the list.
+  
 * Delete Tasks: Tasks can be deleted once completed or if they are no longer needed.
+  
 * Mark Tasks as Completed: Users can visually mark tasks as completed (e.g., with a checkmark or crossed-out text).
+  
 * Simple UI: The interface is clean and simple, focused on usability and ease of interaction.
+  
 * Responsive Design: The app is fully responsive, meaning it works well on both desktop and mobile devices.</p>
+
 
 💻 Technologies Used
 HTML: For the structure and layout of the app.
