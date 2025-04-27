@@ -22,6 +22,8 @@
 <br>
 <h2> 💻 Technologies Used </h2>
 
+
+
 * HTML: For the structure and layout of the app.
 *  CSS: For styling and responsiveness.
 
