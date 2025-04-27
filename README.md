@@ -78,8 +78,8 @@ Simply open the project folder and double-click the index.html file. </p>
 <br>
 <h2> 🛠️ Roadmap </h2>
 <p>
-* Task Completion: Implement features to mark tasks as "done" with a checkbox or strikethrough.
 
+*Task Completion: Implement features to mark tasks as "done" with a checkbox or strikethrough.
 * Error Handling: Ensure that if the input field is empty, the user is alerted and no task is added.
 
 * Styling Enhancements: Improve the overall design, including color schemes, fonts, and animations. </p>
@@ -89,6 +89,8 @@ Simply open the project folder and double-click the index.html file. </p>
 <h2> 📝 License </h2>
 <p> This project is licensed under the MIT License - see the LICENSE file for details. </p>
 
+
 <br>
 <h2> 🤝 Contributing </h2>
 <p> If you’d like to contribute to this project, feel free to fork the repository and submit a pull request.</p>
+<br>
