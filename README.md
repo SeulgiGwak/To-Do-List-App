@@ -69,7 +69,8 @@ Simply open the project folder and double-click the index.html file. </p>
 <br>
 <h2> 🌱 Future Improvements </h2>
 <p>
-* Add the ability to edit tasks after they’ve been created.
+
+  * Add the ability to edit tasks after they’ve been created.
   
 * Implement localStorage to save tasks even when the page is refreshed.
 
