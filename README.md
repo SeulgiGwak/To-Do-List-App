@@ -1,76 +1,85 @@
 📖 Overview
 This is a simple To-Do List web application where users can add, delete, and manage tasks. It's designed to be intuitive, user-friendly, and built with core web technologies: HTML, CSS, and JavaScript. The app is ideal for practicing front-end development and offers essential features for task management.
 
+
 🚀 Features
-Add New Tasks: Users can enter and add new tasks to the list.
+* Add New Tasks: Users can enter and add new tasks to the list.
 
-Delete Tasks: Tasks can be deleted once completed or if they are no longer needed.
+* Delete Tasks: Tasks can be deleted once completed or if they are no longer needed.
 
-Mark Tasks as Completed: Users can visually mark tasks as completed (e.g., with a checkmark or crossed-out text).
+* Mark Tasks as Completed: Users can visually mark tasks as completed (e.g., with a checkmark or crossed-out text).
 
-Simple UI: The interface is clean and simple, focused on usability and ease of interaction.
+* Simple UI: The interface is clean and simple, focused on usability and ease of interaction.
 
-Responsive Design: The app is fully responsive, meaning it works well on both desktop and mobile devices.
+* Responsive Design: The app is fully responsive, meaning it works well on both desktop and mobile devices.
+
 
 💻 Technologies Used
-HTML: For the structure and layout of the app.
+* HTML: For the structure and layout of the app.
 
-CSS: For styling and responsiveness.
+* CSS: For styling and responsiveness.
 
-JavaScript: To provide interactivity (adding, deleting, and completing tasks).
+* JavaScript: To provide interactivity (adding, deleting, and completing tasks).
+
 
 📥 Installation
 To get started with this project on your local machine:
 
 Clone this repository to your local machine:
-
-bash
-Copy
-Edit
 git clone <repository-url>
+
 Open the index.html file in any browser to launch the app.
 
-No installation of additional tools or frameworks is needed. Simply open the project folder and double-click the index.html file.
+No installation of additional tools or frameworks is needed. 
+
+Simply open the project folder and double-click the index.html file.
+
+
 
 📱 Usage
-Add Tasks: Type a task in the input field and click the Add Task button to add it to your list.
+* Add Tasks: Type a task in the input field and click the Add Task button to add it to your list.
 
-Mark Tasks as Complete: Check a task (or strike it through) to mark it as completed.
+* Mark Tasks as Complete: Check a task (or strike it through) to mark it as completed.
 
-Delete Tasks: Click the Delete button next to any task you want to remove from the list.
+* Delete Tasks: Click the Delete button next to any task you want to remove from the list.
+
+
 
 🔧 How It Works
-Add Tasks: The input box allows you to type in tasks. When you press the Add Task button, a new task is added to the list.
+* Add Tasks: The input box allows you to type in tasks. When you press the Add Task button, a new task is added to the list.
 
-Complete Tasks: Once a task is completed, it can be marked (visually) as completed. This may involve adding a "checked" effect or strikethrough on the task text.
+* Complete Tasks: Once a task is completed, it can be marked (visually) as completed. This may involve adding a "checked" effect or strikethrough on the task text.
 
-Delete Tasks: If a task is no longer needed, you can click the Delete button next to it to remove it from the list.
+* Delete Tasks: If a task is no longer needed, you can click the Delete button next to it to remove it from the list.
+
+
 
 🌱 Future Improvements
-Add the ability to edit tasks after they’ve been created.
+* Add the ability to edit tasks after they’ve been created.
 
-Implement localStorage to save tasks even when the page is refreshed.
+* Implement localStorage to save tasks even when the page is refreshed.
 
-Allow users to filter tasks (e.g., show only completed tasks or active tasks).
+* Allow users to filter tasks (e.g., show only completed tasks or active tasks).
 
-Add drag-and-drop functionality to reorder tasks.
+* Add drag-and-drop functionality to reorder tasks.
+
+
 
 🛠️ Roadmap
-Task Completion: Implement features to mark tasks as "done" with a checkbox or strikethrough.
+* Task Completion: Implement features to mark tasks as "done" with a checkbox or strikethrough.
 
-Error Handling: Ensure that if the input field is empty, the user is alerted and no task is added.
+* Error Handling: Ensure that if the input field is empty, the user is alerted and no task is added.
 
-Styling Enhancements: Improve the overall design, including color schemes, fonts, and animations.
+* Styling Enhancements: Improve the overall design, including color schemes, fonts, and animations.
+
+
 
 📝 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+
+
 🤝 Contributing
 If you’d like to contribute to this project, feel free to fork the repository and submit a pull request. Here are some areas where you can help:
 
-Adding more features (e.g., task categories).
-
-Improving the user interface.
-
-Enhancing code quality or optimizing performance.
 
