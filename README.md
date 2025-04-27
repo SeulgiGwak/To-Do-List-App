@@ -18,25 +18,22 @@
 * Responsive Design: The app is fully responsive, meaning it works well on both desktop and mobile devices.</p>
 
 
-💻 Technologies Used
-HTML: For the structure and layout of the app.
+<h2> 💻 Technologies Used </h2>
+* HTML: For the structure and layout of the app.
 
-CSS: For styling and responsiveness.
+* CSS: For styling and responsiveness.
 
-JavaScript: To provide interactivity (adding, deleting, and completing tasks).
+* JavaScript: To provide interactivity (adding, deleting, and completing tasks).
 
-📥 Installation
-To get started with this project on your local machine:
+<h2> 📥 Installation </h2>
+<p>To get started with this project on your local machine:
 
 Clone this repository to your local machine:
-
-bash
-Copy
-Edit
 git clone <repository-url>
-Open the index.html file in any browser to launch the app.
 
-No installation of additional tools or frameworks is needed. Simply open the project folder and double-click the index.html file.
+Open the index.html file in any browser to launch the app. 
+
+No installation of additional tools or frameworks is needed. Simply open the project folder and double-click the index.html file. </p>
 
 📱 Usage
 Add Tasks: Type a task in the input field and click the Add Task button to add it to your list.
