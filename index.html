@@ -1,26 +1,28 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-    <meta charset="UTF-8>"
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> Welcome to To-Do List! </title>
-    <link rel="stylesheet" href="styles.scc">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>The best To-do List</title>
+  <link rel="stylesheet" href="style.css" />
+
 </head>
+<body class="light">
+  <div class="todo-container">
+    <h1>BEST TO-DO LIST</h1>
 
-<body>
-    <div class="todo-container">
-        <h1>My To-Do List</h1>
-
-        <!-- Input Section for adding the tasks -->
-         <input type="text" id="taskInput" placeholder="Add a new task!" />
-         <button id="addTaskBtn">Add Task</button>
-
-         <!--List to display the tasks-->
-         <ul id="taskList"></ul>
+    <div class="controls">
+      <input type="text" id="taskInput" placeholder="Add a new task!" />
+      <button id="addTaskBtn">Add</button>
+      <input type="text" id="searchInput" placeholder="Search tasks..." />
+      <button id="toggleThemeBtn">🌙</button>
     </div>
 
-    <script src="script.js"></script> 
-</body>
+    <ul id="taskList"></ul>
+  </div>
 
+  <script src="script.js"></script>
+</body>
 </html>
