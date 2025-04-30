@@ -16,8 +16,9 @@
 - Responsive Design: The app is fully responsive, meaning it works well on both desktop and mobile devices.</p>
 
 <p>UPDATED Features by 30 April
-* Light/Dark Mode: The app supports switching between light and dark themes for a customizable user experience.
 
+
+- Light/Dark Mode: The app supports switching between light and dark themes for a customizable user experience.
 - Check Animation: Tasks include an animated checkmark when marked as completed for smooth interaction.
 
 - Local Storage: Tasks are saved in the local storage, meaning they persist even after refreshing the page.</p>
